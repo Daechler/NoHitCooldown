@@ -1,0 +1,6 @@
+name: NoHitCooldown
+version: '${project.version}'
+main: net.daechler.nohitcooldown.NoHitCooldown
+api-version: 1.19
+authors: [ Daechler ]
+description: This plugin disables the cooldown of 1.9 hits.
